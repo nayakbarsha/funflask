@@ -1,1 +1,2 @@
 # funflask
+shows random jokes
